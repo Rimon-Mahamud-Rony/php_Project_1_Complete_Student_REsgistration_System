@@ -3,6 +3,6 @@
 <ul>
 <li>Admin LogIn LogOut<li>
 <li>Student Add, Show List, Edit, Update<li>
-<li>Bootstrap, php, JS<li>
+<li>Bootstrap, php, JS <li>
 </ul>
 
